@@ -15,12 +15,19 @@ There are actually some [custom functions](#docs) in the extension
 Make sure you have downloaded the extension folder first, and then:
 
 1. Go to chrome://extensions
+
    ![chrome://extensions](README/extensions_page.png)
+
 2. Enable developer mode
+
    ![Developer mode](README/developer_mode.png)
+
 3. Click "Load unpacked"
+
    ![Load unpacked](README/load_unpacked.png)
+
 4. Select the jsInserter folder
+
    ![Select the folder](README/selected.png)
 
 ## How do I use it
