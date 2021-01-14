@@ -1,0 +1,7 @@
+# No one needs the zip
+jsInserter.zip
+
+# It's just the source code for CodeMirror
+# If you want to download CodeMirror: 
+# https://codemirror.net/
+lib

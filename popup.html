@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="lib/codemirror/lib/codemirror.css" />
+    <script src="lib/codemirror/lib/codemirror.js"></script>
+    <script src="lib/codemirror/mode/javascript/javascript.js"></script>
+    <link rel="stylesheet" href="lib/codemirror/theme/darcula.css" />
+    <link rel="stylesheet" href="popup.css" />
+  </head>
+  <body>
+    <div id="main" hidden>
+      <center>
+        <img src="run.png" alt="Run" id="run" />
+      </center>
+      <textarea id="editor"></textarea>
+      <script src="popup.js"></script>
+    </div>
+    <div id="disabled" hidden>
+      This extension has been disabled in this website.
+    </div>
+  </body>
+</html>
